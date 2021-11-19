@@ -3,5 +3,4 @@ My GitHub Pages
 
 Can be found as well from: <mikko.works>
 
--- 
-Last update: 2021-11-19
+-- Last update: 2021-11-19 --
