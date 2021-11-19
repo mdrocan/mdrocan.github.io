@@ -1,4 +1,7 @@
 # mdrocan.github.io
-GitHub Pages
+My GitHub Pages
 
-One stop for different activities.
+Can be found as well from: <mikko.works>
+
+-- 
+Last update: 2021-11-19
