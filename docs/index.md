@@ -1,4 +1,4 @@
-# Welcome'!'
+# Welcome
 
 My profile in LinkedIn: <https://fi.linkedin.com/in/mikkodrocan>
 
