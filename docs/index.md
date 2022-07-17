@@ -17,5 +17,5 @@ automation
 
 Ongoing "projects": some home improvements inside and outside, improve few
 dashboards in Grafana, a bit more various sports including Saimaa Cycle Tour
-2023 (<https://saimaacycletour.com/en/products/saimaacycletour2023-300km>)
-and Jukola relay 2023 (<https://jukola.com/2023/>) in the long run.
+2023 (<https://saimaacycletour.com/en>) and Jukola relay 2023
+ (<https://jukola.com/2023/>) in the long run.
