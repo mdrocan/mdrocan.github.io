@@ -4,7 +4,7 @@ My profile in LinkedIn: <https://fi.linkedin.com/in/mikkodrocan>
 
 Few of my Git repositories with some scripts that I tend to use now and then: <https://github.com/mdrocan/>
 
-Currently working at Eficode (<https://www.eficode.com/>) as a DevOps Lead.
+Currently working at Circles Consulting (<https://circles.fi/>) as a Senior Consultant.
 Having a work history from small startups to large organizations. As a
 consultant I've been working with customers been working with large global
 organizations and smaller companies. Capable of handling multiple projects at
