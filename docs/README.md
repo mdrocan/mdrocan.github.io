@@ -2,6 +2,6 @@
 
 My GitHub Pages
 
-Can be found as well from: <https://mikko.works>
+Details can be found from: <https://mikko.works>
 
--- Last update: 2022-07-17 --
+-- Last update: 2022-08-24 --
