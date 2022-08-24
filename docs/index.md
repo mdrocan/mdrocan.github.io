@@ -2,14 +2,12 @@
 
 My profile in LinkedIn: <https://fi.linkedin.com/in/mikkodrocan>
 
-Few of my Git repositories with some scripts that I tend to use now and then: <https://github.com/mdrocan/>
+Few of my public Git repositories: <https://github.com/mdrocan/>
 
-Currently working at Circles Consulting (<https://circles.fi/>) as a Senior Consultant.
-Having a work history from small startups to large organizations. As a
-consultant I've been working with customers been working with large global
-organizations and smaller companies. Capable of handling multiple projects at
-the same time, training and coaching teams, leading transformations, being a
-project manager/product owner etc.
+Currently I'm working at Circles Consulting (<https://circles.fi/>) as a Senior Consultant.
+I have a work history from small startups to large organizations. As a
+consultant I have been working in different roles with various customers in
+different parts of the world. I like to challenge myself and learn something new.
 
 My interests include, for example: long distance sports in general.
 Also fixing thigs, home improvement, trekking, camping, hiking, photography,
