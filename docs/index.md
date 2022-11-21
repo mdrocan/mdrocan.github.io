@@ -1,20 +1,22 @@
 # Welcome
 
-My profile in LinkedIn: <https://fi.linkedin.com/in/mikkodrocan>
+My LinkedIn profile: <https://fi.linkedin.com/in/mikkodrocan>
 
-Few of my public Git repositories: <https://github.com/mdrocan/>
+Some of my public Git repositories in Github: <https://github.com/mdrocan/>
 
 Currently I'm working at Circles Consulting (<https://circles.fi/>) as \
-a Senior Consultant. I have a work history from small startups to large \
-organizations. As a consultant I have been working in different roles with \
-various customers in different parts of the world. I like to challenge myself \
-and learn something new.
+a Director for the DevSecOps business unit. My tasks are to rampup Circles' \
+activities in this area and help customers to make efficient changes in this \
+area. I have a work history from small startups to large orgqnizations. \
+As a consultant I have been working in different roles with various customers \
+in different parts of the world. I like to challenge myself and learn \
+something new.
 
-My interests include, for example, long distance sports in general. Also \
-fixing thigs, home improvement, trekking, camping, hiking, photography and \
-automation are things that I find interesting.
+I enjou doing things. My interests include, for example, long distance sports \
+in general. Also fixing thigs, home improvement, trekking, camping, hiking, \
+photography and automation are things that I find interesting.
 
 Ongoing "projects": some home improvements inside and outside, improve few \
-Grafana dashboards, a bit more sports activities including Saimaa Cycle Tour \
-2023 (<https://saimaacycletour.com/en>) and Jukola relay 2023 \
-(<https://jukola.com/2023/>) in the long run.
+Grafana dashboards that visualize misc things at home, a bit more sports \
+activities including Saimaa Cycle Tour 2023 (<https://saimaacycletour.com/en>) \
+and Jukola relay 2023 (<https://jukola.com/2023/>) in the long run.
