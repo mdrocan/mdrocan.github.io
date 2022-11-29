@@ -13,9 +13,9 @@ various customers in different parts of the world. I like to challenge myself \
 and always aim to learn something new.
 
 I enjoy doing different kinds of activities. Lately I have been doing a bit \
-long distance sports in general and focusing more in home improvement, \
-trekking, camping, hiking, taking photos and automation. During the recent \
-years I have also been taking exams with my dog in NoseWork and water rescue.
+less long distance sports in general and focused more in home improvement, \
+trekking, camping, hiking, taking photos and automation. I have also \
+participated with my dog in NoseWork and water rescue exams.
 
 Ongoing "projects": some home improvements inside and outside, improve few \
 Grafana dashboards that visualize misc things at home, a bit more sports \
