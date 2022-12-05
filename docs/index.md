@@ -9,7 +9,7 @@ Director for the DevSecOps business unit. I am ramping up our activities in \
 this area and at the same time helping customers within their software \
 development projects. Whether your organization or team is in need of, for \
 example, a software developer, UI/UX expert, cloud expert do not hesitate to \
-contact us from Circles Consulting's website (<https://circles.fi/contact-us/>).
+contact us from Circles Consulting's site (<https://circles.fi/contact-us/>).
 
 Personally, I have a work history from small startups to large organizations. \
 As a consultant I have worked in different roles with various customers in \
