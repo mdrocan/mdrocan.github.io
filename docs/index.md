@@ -1,8 +1,11 @@
 # Welcome
 
-My LinkedIn profile: <https://fi.linkedin.com/in/mikkodrocan>
+Link | Location
+---- | ---- 
+My LinkedIn profile: | <https://fi.linkedin.com/in/mikkodrocan>
+Some of my public Git repositories in Github: | <https://github.com/mdrocan/>
 
-Some of my public Git repositories in Github: <https://github.com/mdrocan/>
+## Work related
 
 Currently I am working in Circles Consulting (<https://circles.fi/>) as the \
 Director for the DevSecOps business unit. I am ramping up our activities in \
@@ -15,6 +18,8 @@ Personally, I have a work history from small startups to large organizations. \
 As a consultant I have worked in different roles with various customers in \
 different parts of the world. I like to challenge myself and always aim to \
 learn something new.
+
+## Other activities
 
 I enjoy doing different kinds of activities. Lately I have been doing a bit \
 less long distance sports in general and focused more in home improvement, \
