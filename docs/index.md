@@ -2,8 +2,8 @@
 
 Link | Location
 :---- | :----
-My LinkedIn profile: | <https://fi.linkedin.com/in/mikkodrocan>
-Some of my public Git repositories in Github: | <https://github.com/mdrocan/>
+LinkedIn profile | <https://fi.linkedin.com/in/mikkodrocan>
+Public Git repositories in GitHub | <https://github.com/mdrocan/>
 
 ## Work related
 
