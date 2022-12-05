@@ -3,7 +3,7 @@
 Link | Location
 :---- | :----
 LinkedIn profile | <https://fi.linkedin.com/in/mikkodrocan>
-Public Git repositories in Github | <https://github.com/mdrocan/>
+Public Git repositories in GitHub | <https://github.com/mdrocan/>
 
 ## Work related
 
