@@ -7,10 +7,10 @@ Public Git repositories in GitHub | <https://github.com/mdrocan/>
 
 ## Work related
 
-Currently I am working in Circles Consulting (<https://circles.fi/>) as the \
-Director for the DevSecOps business unit. I am ramping up our activities in \
-this area and at the same time helping customers with their software \
-development projects. Whether your organization or team is in need of, for \
+Currently I am working for Circles Consulting (<https://circles.fi/>) as the \
+Director for the DevSecOps business unit. My goal is to help customers \
+succeed with their software development projects and create value for their \
+business. Whether your organization or team is in need of, for \
 example, a software developer, DevOps expert, UI/UX expert or cloud expert \
 do not hesitate to contact me.
 
