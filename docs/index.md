@@ -10,9 +10,9 @@ Public Git repositories in GitHub | <https://github.com/mdrocan/>
 Currently I am working for Circles Consulting (<https://circles.fi/>) as the \
 Director for the DevSecOps business unit. My goal is to help customers \
 succeed with their software development projects and create value for their \
-business. Whether your organization or team is in need of, for \
-example, a software developer, DevOps expert, UI/UX expert or cloud expert \
-do not hesitate to contact me.
+business. Whether your organization or team is in need of, for example, a \
+software developer, DevOps expert, UI/UX expert or cloud expert do not \
+hesitate to contact me.
 
 Personally, I have a work history from small startups to large organizations. \
 As a consultant I have worked in different roles with various customers in \
