@@ -27,8 +27,12 @@ trekking, camping, hiking, taking photos and automation. I have also \
 participated with my dog in NoseWork (1st and 2nd class) and water rescue \
 exams.
 
+### Sports
 Ongoing "projects": some home improvements inside and outside, improve few \
 Grafana dashboards that visualize misc things at home, a bit more sports \
-activities including Saimaa Cycle Tour 2023 (<https://saimaacycletour.com/en>),\
- Finlandiahiihto (<https://www.finlandiahiihto.fi/>) and Jukola relay \
+activities including _Saimaa Cycle Tour 2023_ (<https://saimaacycletour.com/en>),\
+ Finlandiahiihto (<https://www.finlandiahiihto.fi/>) and _Jukola relay_ \
 (<https://jukola.com/2023/>).
+
+#### 2023 sport results:
+- Finlandiahiihto: <https://online4.tulospalvelu.fi/tulokset-new/fi/2023_finlandia_pe/58k/kilpailijat/p1/?Popup=Competitor;864;1>
