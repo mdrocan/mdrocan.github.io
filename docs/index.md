@@ -10,14 +10,17 @@ Public Git repositories in GitHub | <https://github.com/mdrocan/>
 Currently I am working for Circles Consulting (<https://circles.fi/>) as the \
 Director for the DevSecOps business unit. My goal is to help customers \
 succeed with their software development projects and create value for their \
-business. Whether your organization or team is in need of, for example, a \
-software developer, DevOps expert, UI/UX expert or cloud expert do not \
-hesitate to contact me.
+business. Circle's background is in having capable persons delivering \
+solutions fast and with high quality. We provide solutions into software \
+development projects, improving DevSecOps practices and providing efficient \
+cloud practices to different project and handling data efficiently. Those \
+are just examples, do not hesitate to contact me if you have another \
+challenge and let's solve it!
 
-Personally, I have a work history from small startups to large organizations. \
-As a consultant I have worked in different roles with various customers in \
-different parts of the world. I like to challenge myself and always aim to \
-learn something new.
+I have a work history from small startups to large organizations being a \
+consultant and internal employee. I have worked in different roles with \
+various customers in different parts of the world. I like to challenge myself \
+and always aim to learn something new.
 
 ## Other activities
 
@@ -29,9 +32,11 @@ exams.
 
 ### Sports
 Ongoing "projects": some home improvements inside and outside, improve few \
-Grafana dashboards that visualize misc things at home, a bit more sports \
-activities including _Saimaa Cycle Tour 2023_ (<https://saimaacycletour.com/en>),\
- Finlandiahiihto (<https://www.finlandiahiihto.fi/>) and _Jukola relay_ \
+visualization dashboards for misc things at home, improving code quality in \
+my own software projects and, of course, doing a bit more sports than last \
+year. Current activities include, as example, Saimaa Cycle Tour 2023 \
+(<https://saimaacycletour.com/en>), Finlandiahiihto \
+(<https://www.finlandiahiihto.fi/>) and Jukola relay \
 (<https://jukola.com/2023/>).
 
 #### 2023 sport results
