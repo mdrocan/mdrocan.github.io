@@ -2,7 +2,7 @@
 
 Link | Location
 :---- | :----
-LinkedIn profile | <https://fi.linkedin.com/in/mikkodrocan>
+LinkedIn profile | <https://www.linkedin.com/in/mikkodrocan/>
 Public Git repositories in GitHub | <https://github.com/mdrocan/>
 
 ## Work related
@@ -27,17 +27,18 @@ and always aim to learn something new.
 I enjoy doing different kinds of activities. Lately I have been doing a bit \
 less long distance sports in general and focused more in home improvement, \
 trekking, camping, hiking, taking photos and automation. I have also \
-participated with my dog in NoseWork (1st and 2nd class) and water rescue \
+participated with my dog in NoseWork (1st and 3rd class) and water rescue \
 exams.
 
 ### Sports
-Ongoing "projects": some home improvements inside and outside, improve few \
-visualization dashboards for misc things at home, improving code quality in \
+Ongoing "projects": home improvement inside and outside, improve few \
+visualization dashboards for misc things at home, improve code quality in \
 my own software projects and, of course, doing a bit more sports than last \
-year. Current activities include, as example, Saimaa Cycle Tour 2023 \
+year. Current activities include, as example, Saimaa Cycle Tour \
 (<https://saimaacycletour.com/en>), Finlandiahiihto \
 (<https://www.finlandiahiihto.fi/>) and Jukola relay \
-(<https://jukola.com/2023/>).
+(<https://jukola.com/2024/>).
 
 #### 2023 sport results
 - Finlandiahiihto: <https://online4.tulospalvelu.fi/tulokset-new/fi/2023_finlandia_pe/58k/kilpailijat/p1/?Popup=Competitor;864;1>
+- Jukola relay: <https://results.jukola.com/tulokset-new/fi/j2023_ju/?Popup=Competitor;1551>
