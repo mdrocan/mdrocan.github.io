@@ -10,31 +10,27 @@ Public Git repositories in GitHub | <https://github.com/mdrocan/>
 Currently I am working for Circles Consulting (<https://circles.fi/>) as the \
 Director for the DevSecOps business unit. My goal is to help customers \
 succeed with their software development projects and create value for their \
-business. Circle's background is in having capable persons delivering \
-solutions fast and with high quality. We provide solutions into software \
-development projects, improving DevSecOps practices and providing efficient \
-cloud practices to different project and handling data efficiently. Those \
-are just examples, do not hesitate to contact me if you have another \
-challenge and let's solve it!
+Business.
 
-I have a work history from small startups to large organizations being a \
-consultant and internal employee. I have worked in different roles with \
-various customers in different parts of the world. I like to challenge myself \
-and always aim to learn something new.
+Circle's background is in having capable persons delivering \
+solutions fast and with high quality. We, for example, develop creative \
+solutions, help software development projects and improve DevSecOps practices.\
+Those are just a few examples - do not hesitate to contact me, let’s solve \
+your challenge!
+
+I have worked from small startups to larger organisations, being a consultant \
+and internal employee with a variety of different roles. I like to challenge \
+myself and always aim to learn something new.
 
 ## Other activities
 
 I enjoy doing different kinds of activities. Lately I have been doing a bit \
 less long distance sports in general and focused more in home improvement, \
-trekking, camping, hiking, taking photos and automation. I have also \
-participated with my dog in NoseWork (1st and 3rd class) and water rescue \
-exams.
+developing small helpful software projects for myself and training different \
+dog sports (NoseWork, water rescue, fetching) with my dog.
 
 ### Sports
-Ongoing "projects": home improvement inside and outside, improve few \
-visualization dashboards for misc things at home, improve code quality in \
-my own software projects and, of course, doing a bit more sports than last \
-year. Current activities include, as example, Saimaa Cycle Tour \
+ Current activities include, as example, Saimaa Cycle Tour \
 (<https://saimaacycletour.com/en>), Finlandiahiihto \
 (<https://www.finlandiahiihto.fi/>) and Jukola relay \
 (<https://jukola.com/2024/>).
