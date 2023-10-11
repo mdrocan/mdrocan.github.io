@@ -24,7 +24,7 @@ example, Saimaa Cycle Tour (<https://saimaacycletour.com/en>), Finlandiahiihto \
 
 ## Work related
 
-Currently I am working as a Senior Consultant at Circles Consulting (<https://circles.fi/>).
+Currently I am working as a Senior Consultant at Circles Consulting (<https://circles.fi/>).\
 My goal is to help customers succeed with their software development projects \
 and create value for their Business. I enjoy automating things, learning \
 something new and continuously improving myself, ie. not just sticking to same \
