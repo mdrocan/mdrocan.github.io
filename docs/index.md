@@ -24,17 +24,12 @@ example, Saimaa Cycle Tour (<https://saimaacycletour.com/en>), Finlandiahiihto \
 
 ## Work related
 
-Currently I am working for Circles Consulting (<https://circles.fi/>) as the \
-Director for the DevSecOps business unit. My goal is to help customers \
-succeed with their software development projects and create value for their \
-Business.
+Currently I am working as a Senior Consultant at Circles Consulting (<https://circles.fi/>).
+My goal is to help customers succeed with their software development projects \
+and create value for their Business. I enjoy automating things, learning \
+something new and continuously improving myself, ie. not just sticking to same \
+ways of doing.
 
-Circle's background is in having capable persons delivering \
-solutions fast and with high quality. We, for example, develop creative \
-solutions, help software development projects and improve DevSecOps practices.\
-Those are just a few examples - do not hesitate to contact me, let’s solve \
-your challenge!
-
-I have worked from small startups to larger organisations, being a consultant \
-and internal employee with a variety of different roles. I like to challenge \
-myself and always aim to learn something new.
+I have worked from small startups to large organisations, with different roles \
+during my career. I like to challenge myself and always aim to learn something \
+new.
