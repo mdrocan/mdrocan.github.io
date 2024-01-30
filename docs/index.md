@@ -1,8 +1,8 @@
 # Welcome
 
-Link | Location
-:---- | :----
-LinkedIn profile | <https://www.linkedin.com/in/mikkodrocan/>
+Link                              | Location
+:---------------------------------|:------------------------------------------
+LinkedIn profile                  | <https://www.linkedin.com/in/mikkodrocan/>
 Public Git repositories in GitHub | <https://github.com/mdrocan/>
 
 ## Myself
@@ -24,11 +24,12 @@ example, Saimaa Cycle Tour (<https://saimaacycletour.com/en>), Finlandiahiihto \
 
 ## Work related
 
-Currently I am working as a Senior Consultant at Circles Consulting (<https://circles.fi/>).\
-My goal is to help customers succeed with their software development projects \
-and create value for their Business. I enjoy automating things, learning \
-something new and continuously improving myself, ie. not just sticking to same \
-ways of doing.
+Currently I am working as a Lead DevOps Engineer at Kraftvaerk Finland (<https://kraftvaerk.com/>).\
+I help our customers success in their business. My daily work includes, for \
+example, implementing something technical that helps a team or supporting the \
+a project team to transform the ways of working into more meaningfull and \
+value-basexd.  I enjoy automating things, learning something new and \
+continuously improving myself, ie. not just sticking to same ways of doing.
 
 I have worked from small startups to large organisations, with different roles \
 during my career. I like to challenge myself and always aim to learn something \
