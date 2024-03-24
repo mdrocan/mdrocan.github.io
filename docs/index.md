@@ -1,3 +1,4 @@
+---
 # Welcome
 
 Link                              | Location
@@ -18,19 +19,25 @@ example, Saimaa Cycle Tour (<https://saimaacycletour.com/en>), Finlandiahiihto \
 (<https://www.finlandiahiihto.fi/>) and Jukola relay \
 (<https://jukola.com/2024/>).
 
+#### Dog sports
+- Peppi, the dog I train and compete with most often: <https://jalostus.kennelliitto.fi/frmKoira.aspx?REKNO=FI19376%2F20&Indeksit=0>
+
 #### 2023 sport results
 - Finlandiahiihto: <https://online4.tulospalvelu.fi/tulokset-new/fi/2023_finlandia_pe/58k/kilpailijat/p1/?Popup=Competitor;864;1>
 - Jukola relay: <https://results.jukola.com/tulokset-new/fi/j2023_ju/?Popup=Competitor;1551>
+- Saimaa Cycle Tour: Cycled through
+
+#### 2024 sport results
+- Finlandiahiihto: <https://live.ultimate.dk/desktop/front/certificate.php?eventid=6344&pid=656&language=fi>
+- Jukola relay: To be run in June
+- Saimaa Cycle Tour: To be cycled
 
 ## Work related
 
-Currently I am working as a Lead DevOps Engineer at Kraftvaerk Finland (<https://kraftvaerk.com/>).\
-I help our customers success in their business. My daily work includes, for \
-example, implementing something technical that helps a team or supporting the \
-a project team to transform the ways of working into more meaningfull and \
-value-basexd.  I enjoy automating things, learning something new and \
-continuously improving myself, ie. not just sticking to same ways of doing.
+Currently I'm seeking for a new job with something new and interesting.\
+Previously I worked as a Lead DevOps Engineer at Kraftvaerk Finland (<https://kraftvaerk.com/>).\
 
-I have worked from small startups to large organisations, with different roles \
-during my career. I like to challenge myself and always aim to learn something \
-new.
+During my career, I have worked in a variety of organisations in different \
+roles. I like to challenge myself and push myself a bit beyong my comfort zone.\
+I enjoy automating things, learning something new and continuously improving \
+myself, ie. not just sticking to same ways of doing.
