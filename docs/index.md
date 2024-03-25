@@ -35,7 +35,7 @@ example, Saimaa Cycle Tour (<https://saimaacycletour.com/en>), Finlandiahiihto \
 ## Work related
 
 Currently I'm seeking for a new job with something new and interesting.\
-Previously I worked as a Lead DevOps Engineer at [Kraftvaerk Finland](https://kraftvaerk.com/).\
+Previously I worked as a Lead DevOps Engineer at [Kraftvaerk Finland](https://kraftvaerk.com/).
 
 During my career, I have worked in a variety of organisations in different \
 roles. I like to challenge myself and push myself a bit beyong my comfort zone.\
