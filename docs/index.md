@@ -1,9 +1,9 @@
 # Welcome
 
-| Link                              | Location                                   |
-| :-------------------------------- | :----------------------------------------- |
-| LinkedIn profile                  | <https://www.linkedin.com/in/mikkodrocan/> |
-| Public Git repositories in GitHub | <https://github.com/mdrocan/>              |
+| Link                 | Location                                   |
+| :------------------- | :----------------------------------------- |
+| LinkedIn profile     | <https://www.linkedin.com/in/mikkodrocan/> |
+| GitHub profile       | <https://github.com/mdrocan/>              |
 
 ## Myself
 
@@ -37,8 +37,8 @@ example, Saimaa Cycle Tour (<https://saimaacycletour.com/en>), Finlandiahiihto \
 
 ## Work related
 
-I'm having a short and busy vacation currently and my work projects starting \
-in May. My previous work history can be seen from my LinkedIn profile.
+I'm currently having a short and busy vacation. My previous work history can \
+be seen from my LinkedIn profile.
 
 During my career, I have worked in a variety of organisations in different \
 roles. I like to challenge and push myself a bit beyong my comfort zone. I \
