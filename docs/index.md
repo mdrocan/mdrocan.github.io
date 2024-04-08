@@ -1,9 +1,9 @@
 # Welcome
 
-| Link                 | Location                                   |
-| :------------------- | :----------------------------------------- |
-| LinkedIn profile     | <https://www.linkedin.com/in/mikkodrocan/> |
-| GitHub profile       | <https://github.com/mdrocan/>              |
+| Link             | Location                                   |
+|:-----------------|:-------------------------------------------|
+| LinkedIn profile | <https://www.linkedin.com/in/mikkodrocan/> |
+| GitHub profile   | <https://github.com/mdrocan/>              |
 
 ## Myself
 
