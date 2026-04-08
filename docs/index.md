@@ -41,7 +41,7 @@ I'm currently working at KONE Corporation as a Senior DevOps Engineer. My \
 previous work history can be seen from my LinkedIn profile.
 
 During my career, I have worked in a variety of organisations in different \
-roles. I like to challenge and push myself a bit beyong my comfort zone. I \
-enjoy automating manual tasksm with high quality, helping others, support \
+roles. I like to challenge and push myself a bit beyond my comfort zone. I \
+enjoy automating manual tasks with high quality, helping others, support \
 transformations and learning something new and continuously improving \
 myself, ie. not just sticking to same ways of doing.
