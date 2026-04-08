@@ -1,23 +1,17 @@
 # Welcome
 
 | Link             | Location                                   |
-|:-----------------|:-------------------------------------------|
+| ---------------- | ------------------------------------------ |
 | LinkedIn profile | <https://www.linkedin.com/in/mikkodrocan/> |
 | GitHub profile   | <https://github.com/mdrocan/>              |
 
 ## Myself
 
-I enjoy doing different kinds of activities. Lately I have been doing a bit \
-less long distance sports in general and focused more in home improvement, \
-developing small helpful software projects for myself and training different \
-dog sports (NoseWork, water rescue, fetching) with my dog.
+I enjoy doing different kinds of activities. Lately I have been doing a bit less long-distance sports in general and focused more on home improvement, developing small helpful software projects for myself and training different dog sports (NoseWork, water rescue, fetching) with my dog.
 
 ### Sports
 
-Sports have been always important to me. Current activities include, for \
-example, Saimaa Cycle Tour (<https://saimaacycletour.com/en>), Finlandiahiihto \
-(<https://www.finlandiahiihto.fi/>) and Jukola relay \
-(<https://jukola.com/2024/>).
+Sports have always been important to me. Current activities include, for example, Saimaa Cycle Tour (<https://saimaacycletour.com/en>), Finlandiahiihto (<https://www.finlandiahiihto.fi/>) and Jukola relay (<https://jukola.com/2024/>).
 
 #### Dog sports
 
@@ -37,11 +31,6 @@ example, Saimaa Cycle Tour (<https://saimaacycletour.com/en>), Finlandiahiihto \
 
 ## Work related
 
-I'm currently working at KONE Corporation as a Senior DevOps Engineer. My \
-previous work history can be seen from my LinkedIn profile.
+I'm currently working at KONE Corporation as a Senior DevOps Engineer. My previous work history can be seen from my LinkedIn profile.
 
-During my career, I have worked in a variety of organisations in different \
-roles. I like to challenge and push myself a bit beyod my comfort zone. I \
-enjoy automating manual tasksm with high quality, helping others, support \
-transformations and learning something new and continuously improving \
-myself, ie. not just sticking to same ways of doing.
+During my career, I have worked in a variety of organisations in different roles. I like to challenge and push myself a bit beyond my comfort zone. I enjoy automating manual tasks with high quality, helping others, supporting transformations and learning something new while continuously improving myself, i.e., not just sticking to the same ways of doing.
